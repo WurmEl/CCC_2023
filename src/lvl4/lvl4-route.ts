@@ -119,7 +119,6 @@ export class Level4Route {
       current = parent;
     }
 
-    console.log(path);
     this.routeCoordinates = path;
   }
 
